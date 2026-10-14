@@ -206,7 +206,4 @@ Choose a license before distributing or accepting contributions. If you intend t
 ---
 
 If you find this project useful, consider giving the repository a ⭐ on GitHub.
-"""
-path = Path("/mnt/data/README.md")
-path.write_text(content, encoding="utf-8")
-print(f"Created: {path}")
+

@@ -1,6 +1,4 @@
-from pathlib import Path
-
-content = r"""# 🤖 AI Document Chatbot
+AI Document Chatbot
 
 An AI-powered document question-answering application that helps users ask questions about their documents using **Retrieval-Augmented Generation (RAG)**. The project combines document processing, semantic search, vector storage, and a locally running language model to generate answers grounded in retrieved document content.
 
